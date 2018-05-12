@@ -1,0 +1,25 @@
+_repo: The-Wye-and-Its-Associationsa-picturesque-ramble_36367
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ritchie, Leitch
+    deathdate: 1865
+    gutenberg_agent_id: '38232'
+    url: http://www.gutenberg.org/2009/agents/38232
+description: ''
+gutenberg_issued: '2011-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36367'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wye, River (Wales and England) -- Description and travel'
+- !lcc 'DA'
+title: 'The Wye and Its Associations: A Picturesque Ramble'
+url: http://www.gutenberg.org/ebooks/36367
